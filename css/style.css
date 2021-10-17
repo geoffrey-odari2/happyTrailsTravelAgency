@@ -1,0 +1,24 @@
+body{
+    font-family: fantasy;
+}
+
+h1{
+    color: #f7325e;
+    text-align: center;
+}
+
+h2,p{
+    text-align: center;  
+}
+
+
+.destinations{
+    border:solid #f7325e 1px;
+    width:fit-content;
+    margin:auto;
+    padding:40px;
+}
+
+.tropical{
+    color:#7dc410;
+}
