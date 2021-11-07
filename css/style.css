@@ -1,10 +1,11 @@
 body{
     font-family: fantasy;
     padding: 0;
+    
 }
 
 h1{
-    color: #f7325e;
+    color: #a71b39;
     text-align: center;
 }
 
@@ -14,10 +15,11 @@ h4,p{
 
 
 .destinations{
-    border:solid #f7325e 1px;
+    
     width:fit-content;
     margin:auto;
     padding:40px;
+    background-color: rgb(148, 180, 223);
 }
 
 .tropical{
@@ -25,6 +27,8 @@ h4,p{
 }
 
 .main-image{
-    width:600px;
+    width:100%;
     margin:0 auto;
 }
+
+
